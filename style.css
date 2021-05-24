@@ -63,7 +63,15 @@ a {
 
 /* Set color for socials being clicked */
 .socials:active {
-    color: #cf0404
+    color: #d6d6d6
+}
+
+.socials:hover {
+    color: #cf0404;
+}
+
+.socials:visited {
+    color: #cf040471
 }
 
 /* COVER For picture of self and a simple welcome.*/
@@ -84,7 +92,7 @@ a {
 .welcome {
     display: flex;
     text-align: right;
-    color: #7abcff;
+    color: #cf0404;
     margin-left: 250px;
 }
 
