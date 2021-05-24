@@ -78,14 +78,14 @@ a {
     position: static;
     width: 15rem;
     height: 27rem;
-    margin-left: 150px
+    margin-left: 250px
 }
 
 .welcome {
     display: flex;
     text-align: right;
     color: #7abcff;
-    margin-left: 10px;
+    margin-left: 250px;
 }
 
 
