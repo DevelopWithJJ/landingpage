@@ -7,7 +7,6 @@ body {
 /* Makes it so we have a pointer on a website as we're scrolling, setting a base font size, and gives our 
 a 3D look.*/
 .zone {
-    cursor:pointer;
     color:#FFF;
     font-size:2em;
     border-radius:4px;
